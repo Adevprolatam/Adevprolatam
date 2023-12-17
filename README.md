@@ -8,10 +8,8 @@
   <!-- font awesome -->
   <link rel="stylesheet" type="text/css" href="./css/font-awesome.css">
   <!-- main css -->
-  <link rel="stylesheet" type="text/css" href="./css/styles.css">
+  <link rel="stylesheet" type="text/css" href="https://adevprolatam.vercel.app/css/styles.css">
   <link rel="icon"  href="./img/icon/dragon.png">
-  <!--RESPONSIVE DESING-->
-  <link rel="stylesheet" href="./css/responsive.css">
   <!---default color skin-->
   <link rel="stylesheet" href="./css/skins/color-4.css">
   <!--style switcher for demo-->
