@@ -1,7 +1,6 @@
-<img src="./BANNER.PNG"  align="center"/>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./BANNER.PNG"  align="center"/>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -21,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">DEVELOPER ❤</h2></summary>
   </ul>
 </div>
 
